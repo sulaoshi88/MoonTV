@@ -77,5 +77,9 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     }
+    "souav": {
+      "api": "https://api.souavzy.vip",
+      "name": "souav资源"
+    }
   }
 }
